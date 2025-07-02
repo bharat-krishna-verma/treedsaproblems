@@ -33,6 +33,7 @@ Each file is named after the problem it solves. Problem statements and source li
 | Top View | `topviewtree.java` | [GFG - Top View](https://www.geeksforgeeks.org/top-view-of-a-binary-tree/) | Nodes visible from the top |
 | Vertical Order Traversal | `verticalordertraversal.java` | [LeetCode #987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Column-wise top-down order |
 | ZigZag Traversal | `zigzagtraversal.java` | [LeetCode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Alternate left-right level order |
+| All Nodes Distance K | `allnodesatdistk.java` | [LeetCode #863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Return all nodes at distance K from a target node |
 
 ---
 
