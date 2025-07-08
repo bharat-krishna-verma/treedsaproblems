@@ -35,6 +35,7 @@ Each file is named after the problem it solves. Problem statements and source li
 | ZigZag Traversal | `zigzagtraversal.java` | [LeetCode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Alternate left-right level order |
 | All Nodes Distance K | `allnodesatdistk.java` | [LeetCode #863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Return all nodes at distance K from a target node |
 | Burn Binary Tree (Infection Spread) | `burn_tree.java` | [LeetCode #2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Time to infect all nodes starting from a given node |
+| Count Complete Tree Nodes | `countcompletetreenodes.java` | [LeetCode #222](https://leetcode.com/problems/count-complete-tree-nodes/) | Count total nodes in a complete binary tree |
 
 
 ---
