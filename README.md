@@ -38,6 +38,8 @@ Each file is named after the problem it solves. Problem statements and source li
 | Count Complete Tree Nodes | `countcompletetreenodes.java` | [LeetCode #222](https://leetcode.com/problems/count-complete-tree-nodes/) | Count total nodes in a complete binary tree |
 | Serialize & Deserialize | `serializetree.java` | [LeetCode #297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Encode tree to string and decode back |
 | Construct Binary Tree from Preorder and Inorder | `buildtreefromprein.java` | [LeetCode #105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Build binary tree using preorder and inorder traversals |
+| Construct Binary Tree (Inorder + Postorder) | `construct_binary_tree_from_inorder_postorder.java` | [LeetCode #106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Build tree using inorder and postorder traversals |
+
 
 
 
