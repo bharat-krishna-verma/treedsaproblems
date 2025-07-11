@@ -37,6 +37,8 @@ Each file is named after the problem it solves. Problem statements and source li
 | Burn Binary Tree (Infection Spread) | `burn_tree.java` | [LeetCode #2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Time to infect all nodes starting from a given node |
 | Count Complete Tree Nodes | `countcompletetreenodes.java` | [LeetCode #222](https://leetcode.com/problems/count-complete-tree-nodes/) | Count total nodes in a complete binary tree |
 | Serialize & Deserialize | `serializetree.java` | [LeetCode #297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Encode tree to string and decode back |
+| Construct Binary Tree from Preorder and Inorder | `buildtreefromprein.java` | [LeetCode #105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Build binary tree using preorder and inorder traversals |
+
 
 
 ---
