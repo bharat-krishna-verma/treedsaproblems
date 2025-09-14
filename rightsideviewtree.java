@@ -1,6 +1,8 @@
 //Right Side View Binary Tree
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class rightsideviewtree {
     //we will use reverse pre order traversal when level is equal to datastructure 
@@ -27,4 +29,21 @@ public class rightsideviewtree {
         return ans;
         
      } 
+      public List<Integer> rightSideViewusinfBFS(node root) {
+         ArrayList<Integer> ans = new ArrayList<>();
+         if(root==null) return ans;
+         Queue<node> qu = new LinkedList<>();
+         qu.offer(root);
+         node temp = null;
+         while (!qu.isEmpty()) {
+            int levelsize= qu.size();
+            for(int i =0;i<levelsize;i++){
+               temp = qu.poll();
+               if(temp.left!=null)qu.offer(temp.left);
+               if(temp.right!=null)qu.offer(temp.right);
+            }
+            ans.add(temp.data);
+         }
+         return ans;
+      }
 }
